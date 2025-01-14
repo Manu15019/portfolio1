@@ -1,3 +1,4 @@
+
 * {
     margin: 0;
     padding: 0;
@@ -195,4 +196,8 @@ a:visited {
     width: 200px;
     margin-top: 6rem;
     margin-bottom: 3rem;
+}
+
+.project-links{
+    font-size: 13px;
 }
